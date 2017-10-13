@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="img/41-7.png" align="center" width="200"></p>
+    <p><img src="../img/41-7.png" align="center" width="200"></p>
 </center>
 
 我是砍蚊子。
